@@ -21,4 +21,4 @@ An industrial automation solution for weighing and sorting items in motion. This
 * **Data Architecture:** Modular design using custom Function Blocks (FBs), Global Variable Lists (GVLs), and STRUCTs for centralized data.
 
 ## 📸 In Action
-![System Demo]()
+![System Demo](Media/Weight_Sort_Factory_IO_Codesys.gif)
