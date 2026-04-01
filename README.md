@@ -14,7 +14,7 @@ An industrial automation solution for weighing and sorting items in motion. This
   - Real-time status messages (Weighing, Sorting, Emergency, etc.).
 * **Safety Logic:** Integrated Emergency Stop handling with system-ready monitoring and state recovery.
 
-## 🏗️ Technical Setup
+## 🛠️ Technical Setup
 * **Logic:** **Structured Text (ST)** for the weighing/sorting state machine + **Ladder Diagram (LD)** for I/O mapping and HMI sync.
 * **Data Processing:** Signal scaling and filtering of analog inputs to ensure accurate weight readings.
 * **State Management:** Robust transitions using **ENUMs** and **CASE OF** logic to ensure deterministic operation and easy debugging.
